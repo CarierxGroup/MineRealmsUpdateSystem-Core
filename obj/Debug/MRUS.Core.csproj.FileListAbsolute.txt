@@ -1,0 +1,9 @@
+D:\工程开发\C#\OAUS源码\MRUS.Core\bin\Debug\MRUS.Core.dll
+D:\工程开发\C#\OAUS源码\MRUS.Core\bin\Debug\MRUS.Core.pdb
+D:\工程开发\C#\OAUS源码\MRUS.Core\bin\Debug\ESBasic.dll
+D:\工程开发\C#\OAUS源码\MRUS.Core\bin\Debug\ESBasic.xml
+D:\工程开发\C#\OAUS源码\MRUS.Core\obj\Debug\MRUS.Core.csprojAssemblyReference.cache
+D:\工程开发\C#\OAUS源码\MRUS.Core\obj\Debug\MRUS.Core.csproj.CoreCompileInputs.cache
+D:\工程开发\C#\OAUS源码\MRUS.Core\obj\Debug\MRUS.Core.csproj.CopyComplete
+D:\工程开发\C#\OAUS源码\MRUS.Core\obj\Debug\MRUS.Core.dll
+D:\工程开发\C#\OAUS源码\MRUS.Core\obj\Debug\MRUS.Core.pdb
